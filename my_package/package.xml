@@ -3,7 +3,7 @@
 <package format="3">
   <name>my_package</name>
   <version>0.0.0</version>
-  <description>I changed this description to satisfy my reading quiz</description>
+  <description>I changed this description to satisfy my reading quiz. I'm now changing it a second time.</description>
   <maintainer email="baileypj@dukes.jmu.edu">paul</maintainer>
   <license>Apache License 2.0</license>
 
